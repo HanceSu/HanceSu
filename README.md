@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jerry Su
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning MSE, StatML
-- 💞️ I’m looking to collaborate on ML driven projects
-- 📫 Reach me via Gmail hances@andrew.cmu.edu
+- 👋 Hi, I'm here to tell you that your kami doesn't exist, it's simply gone
+- 👀 I’m interested in having an existential crisis
+- 🌱 I’m currently learning how to get a life
+- 💞️ I’m looking to collaborate on whatever seems fun
+- 📫 Reach me via gloriouscrowner@gmail.com
 
 <!---
 HanceSu/HanceSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
