@@ -2,7 +2,7 @@
 - 👀 I’m interested in having an existential crisis
 - 🌱 I’m currently learning how to get a life
 - 💞️ I’m looking to collaborate on whatever seems fun
-- 📫 Reach me via gloriouscrowner@gmail.com
+- 📫 You are not reaching me
 
 <!---
 HanceSu/HanceSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
