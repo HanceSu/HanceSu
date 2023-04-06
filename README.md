@@ -1,7 +1,7 @@
 - 👋 Hi, I'm here to tell you that your kami doesn't exist, it's simply gone
 - 👀 I’m interested in having an existential crisis
 - 🌱 I’m currently learning how to get a life
-- 💞️ I’m looking to collaborate on whatever seems fun
+- 💞️ I’m looking to collaborate on astral plane ascension
 - 📫 You are not reaching me
 
 <!---
